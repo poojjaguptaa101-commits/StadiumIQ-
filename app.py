@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════╗
 ║         StadiumIQ — AI-Powered Smart Venue Experience            ║
-║         Full Stack · Single File · Python + FastAPI     ║
+║         Full Stack · Single File · Python + FastAPI              ║
 ║                                                                  ║
 ║  Run:  pip install fastapi uvicorn anthropic                     ║
 ║        python stadiumiq_full.py                                  ║
