@@ -9,7 +9,7 @@
 
 ```
 stadiumiq/
-├── main.py                  # FastAPI app, CORS, route registration
+├── app.py                  # FastAPI app, CORS, route registration
 ├── requirements.txt
 ├── .env.example
 ├── models/
